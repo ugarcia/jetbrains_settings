@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping ext="php" type="PHP" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="nginx file type" />
+    </extensionMap>
+  </component>
+</application>

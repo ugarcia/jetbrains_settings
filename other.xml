@@ -1,0 +1,54 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.2.2/bin/node">
+      <version-cache version="6.2.2" last-modified="1466173935000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.12.0/bin/node">
+      <version-cache version="5.12.0" last-modified="1466688343000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="5.12.0" last-modified="1466749357000" />
+      <npm-package value="/usr/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/bin/nodejs">
+      <version-cache version="5.12.0" last-modified="1466749357000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.9.1/bin/node">
+      <version-cache version="5.9.1" last-modified="1458693220000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.4.7/bin/node">
+      <version-cache version="4.4.7" last-modified="1467147253000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.4.1/bin/node">
+      <version-cache version="4.4.1" last-modified="1458674789000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.4.0/bin/node">
+      <version-cache version="4.4.0" last-modified="1457490437000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v4.4.0/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/Projects/Loots/src/frontend2/build/caster/node_modules/.bin/electron">
+      <version-cache version="0.37.8" last-modified="1461936631000" />
+      <npm-package value="/usr/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/bin/node" version="5.12.0" last-modified="1466749357000" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.4.0/bin/node" version="4.4.0" last-modified="1457490437000" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <Gitlab shared="false" url="https://gitlab.com">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <GitlabProject id="-1" />
+      </option>
+      <password>df9fdfd9dfc0dfd0df9cdfdbdff5df9ddfe6dfdadfeddff5dfc0dfc4dfdfdfffdfcfdfdedfe2dfe6</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Gitlab>
+  </component>
+</application>
