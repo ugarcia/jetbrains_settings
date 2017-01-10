@@ -1,5 +1,4 @@
 <code_scheme name="Default (2)">
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
@@ -58,6 +57,8 @@
     </formatting-settings>
   </DBN-SQL>
   <codeStyleSettings language="JavaScript">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
   </codeStyleSettings>
 </code_scheme>
